@@ -4,6 +4,8 @@
 <p align="center">
 	<a href="https://github.com/hash-05"><img src="https://img.shields.io/github/followers/hash-05?label=Follow&style=social" alt="GitHub Followers"></a>
 	<a href=" https://linkedin.com/in/shashwat12"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+		<a href="https://www.linkedin.com/in/rudradesai200"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
 	<a href="https://github.com/hash-05"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
 	  <a href="mailto: shashwat1205@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
 	  <a href="http:///"><img src="https://image.flaticon.com/icons/svg/145/145801.svg" alt="Portfolio" width="20" height="20"></a>
