@@ -6,8 +6,8 @@
 	<a href="https://linkedin.com/in/shashwat12/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/hash-05"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
 	<a href="mailto: shashwat1205@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
-	<a href="https://kaggle.com/shashwat05" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-blue" alt="shashwat05"/></a>
-	<a href="http:///"><img src="https://image.flaticon.com/icons/svg/145/145801.svg" alt="Portfolio" width="20" height="20"></a>
+	<a href="https://kaggle.com/shashwat05" target="blank"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=Kaggle"alt="shashwat05"/></a>
+	<a href="http:///"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=port" alt="Portfolio"</a>
 	<img src="https://komarev.com/ghpvc/?username=hash-05&style=flat-square&color=blue" alt="hash-05"/>
 
 </p>
