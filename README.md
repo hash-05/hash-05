@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
-<h3 align="center">A pre final-year student, pursuing B.E in CSE & B.S in Data Science and Applications from Indian Institute of Technology, Madras. </h3>
+<h3 align="center">A computer science student pursuing Mtech in Artificial Intelligence from IISc, Bangalore </h3>
 
 <p align="center">
 	<a href="https://github.com/hash-05"><img src="https://img.shields.io/github/followers/hash-05?label=Follow&style=social" alt="GitHub Followers"></a>
