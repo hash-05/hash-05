@@ -13,7 +13,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [http://www.portshash.com/](http://www.portshash.com/)
+- Pursuing MTech in Artifical Intelligence from Indian Insitiute of Science(IISc), Bengaluru
 
 - 💬 Talk to me about **Machine Learning, Data Science & Artificial Intelligence**
 
